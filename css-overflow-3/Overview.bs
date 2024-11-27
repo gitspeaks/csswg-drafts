@@ -729,8 +729,8 @@ Scrollbars and Layout</h2>
 Scrollbar Contributions to Sizing</h3>
 
 	When reserving space for a scrollbar placed at the edge of an element's box,
-	the reserved space is inserted between the inner border edge
-	and the outer padding edge.
+	the reserved space is inserted between the padding edge
+	and the border edge.
 	For the purpose of the <a spec=css-backgrounds>background positioning area</a> and <a spec=css-backgrounds>background painting area</a> however,
 	this reserved space is considered to be part of the [=padding box=].
 
